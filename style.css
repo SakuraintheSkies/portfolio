@@ -96,7 +96,7 @@ h2 {
 }
 
 .project-card img {
-  width: 100%;
+  width: 50%;
   height: 160px;          /* 👈 THIS fixes the bigness */
   object-fit: cover;     /* crops nicely */
   border-radius: 14px;
