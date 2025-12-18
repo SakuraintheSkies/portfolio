@@ -1,10 +1,23 @@
 * {
+  box-sizing: border-box;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Poppins', sans-serif;
+}
+
+* {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
   font-family: "Poppins", sans-serif;
 }
-
+h1, h2, h3, h4 {
+  font-family: 'Playfair Display', serif;
+  color: #e75480;
+}
 body {
   background: #fff6fa;
   color: #2b2b2b;
